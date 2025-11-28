@@ -22,7 +22,6 @@ export const Hero = () => {
           
           <h1 className="font-display text-6xl md:text-8xl font-bold tracking-tight">
             <span className="block text-foreground">BRINDA M S</span>
-            <span className="block text-primary mt-2">Developer</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto font-medium">
